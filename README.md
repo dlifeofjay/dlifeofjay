@@ -2,7 +2,7 @@
 I’m **Jay** — a **Data Scientist**, **Machine Learning & AI Engineer**, and **Business Intelligence Analyst** passionate about using **data and AI** to solve real business problems.  
 
 🔭 I build systems that connect **business strategy with machine learning and automation** — from KPI dashboards to AI-powered assistants.  
-🌱 Currently exploring **RAG**, **Azure**, and **intelligent agents for business insights**.  
+🌱 Currently exploring **Azure**, and **intelligent agents for business insights**.  
 ⚡ Fun fact: I dont just analyze data, i make it make sense.  
 
 ---
