@@ -1,6 +1,6 @@
 Hi there 👋
 
-I’m Jay — a Data Scientist, Machine Learning & AI Engineer, and Business Intelligence Analyst passionate about turning data into intelligent systems that drive business strategy.
+I’m Jay — a Data Scientist, Machine Learning Engineer, and Business Intelligence Analyst passionate about turning data into intelligent systems that drive business strategy.
 
 🔭 I build solutions that connect business logic with machine learning and automation — from KPI dashboards to AI-powered assistants.
 🌱 Currently exploring Azure, RAG, and intelligent agents for business insights.
