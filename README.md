@@ -11,4 +11,4 @@ I’m Jay — a Data Scientist, Machine Learning Engineer, and Business Intellig
 🔍 Product Recommendation Model – Revealing customer buying patterns through association rules.
 ⚙️ Streamlit Data Pipeline – Automating data cleaning and transformation with YAML.
 💬 RAG Chatbot for E-commerce – Enabling data-driven product query conversations.
-🧠 Bro to Bro AI – Nigerian-style conversational assistant that blends culture, humor, and intelligence.
+Time series forecasting with deep learning
